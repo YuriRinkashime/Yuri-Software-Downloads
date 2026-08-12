@@ -1,3 +1,3 @@
-VISIT MY OFFICIAL WEBSITE [HERE.](https://yuris-official-website.vercel.app/index.html)
+VISIT MY OFFICIAL WEBSITE [HERE.](https://rinkayuriswebsite.freedev.app)
 
 THIS IS THE REPOSITORY WHERE I UPLOAD MY SOFTWARES. TO KNOW MORE, PLEASE VISIT MY WEBSITE ABOVE.
